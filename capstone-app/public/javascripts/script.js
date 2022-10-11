@@ -3,6 +3,14 @@
 /*TODO
 CREATE LOGIN SECTION
 -Add Eventlistener onclick, store Username & Password into userInfo Object
+
+// Fixes tip of branch issue
+git push -f origin main
+
+// TO RUN PROJECT
+// NPM START
+// OPEN WITH LOCALHOST
+// http://localhost:3000/
 */
 
 /* 
