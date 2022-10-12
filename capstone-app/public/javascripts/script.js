@@ -7,10 +7,19 @@ CREATE LOGIN SECTION
 // Fixes tip of branch issue
 git push -f origin main
 
-// TO RUN PROJECT
-// NPM START
-// OPEN WITH LOCALHOST
-// http://localhost:3000/
+// TO RUN PROJECT FROM VS CODE
+NPM START
+OPEN WITH LOCALHOST
+http://localhost:3000/
+
+//TO RUN PROJECT FROM EC2/TERMINAL
+Connect to EC2 
+CD into directory
+npm start
+View Using Chrome Browser: http://localhost:3000/
+
+//Other static page
+http://18.188.223.108/groupproj/
 */
 
 /* 
